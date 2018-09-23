@@ -1,7 +1,7 @@
 # Scalable-message-passing
 This project demonstrates the concurrent message passing.
 
-Used programming language:Erlang and Java
+Used programming languages:Erlang and Java
 
 This will give you an idea how a thought process will be different for imperative and functional language.
 
